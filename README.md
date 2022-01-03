@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💞 I’m looking to collaborate on Flutter Projects.
 
-- 👨‍💻 Linkdin Profile: [https://www.linkedin.com/in/prathmesh-bonde31](www.linkedin.com/in/prathmesh-bonde31)
+- 👨‍💻 LinkedIn Profile: [https://www.linkedin.com/in/prathmesh-bonde31](www.linkedin.com/in/prathmesh-bonde31)
 
 - 📫 How to reach me *prathubonde31@gmail.com*
 
