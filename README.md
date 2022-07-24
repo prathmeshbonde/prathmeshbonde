@@ -1,6 +1,6 @@
 <!--
 ### Hi there 👋
-**prathubonde/prathubonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prathmeshbonde/prathmeshbonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me *prathubonde31@gmail.com*
 
-    <img src="https://komarev.com/ghpvc/?username=prathubonde" width=160px/>
+    <img src="https://komarev.com/ghpvc/?username=prathmeshbonde" width=160px/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
     
 <table>
     <tr>
-        <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathubonde&show_icons=true&theme=radical" alt="Prathmesh's github stats" /> </td>
-        <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathubonde&layout=compact&theme=radical" alt="Prathmesh" /> </td>
+        <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshbonde&show_icons=true&theme=radical" alt="Prathmesh's github stats" /> </td>
+        <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshbonde&layout=compact&theme=radical" alt="Prathmesh" /> </td>
     </tr>
 </table>
 
